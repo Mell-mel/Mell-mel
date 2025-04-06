@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Mell-mel/Mell-mel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -25,6 +24,3 @@ Hi, I'm Mel! I'm a beginner on Data/IT area. My aim on this journey is to develo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-
-
-.
