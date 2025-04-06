@@ -27,4 +27,4 @@ Hi, I'm Mel! I'm a beginner on Data/IT area. My aim on this journey is to develo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 
 
-
+.
